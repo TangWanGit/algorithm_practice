@@ -1,0 +1,58 @@
+cmake_minimum_required(VERSION 3.14)
+project(algorithm_practice C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(polynomial polynomial/main.c polynomial/Polynomial.c)
+add_executable(Main FpFuntMain.c)
+
+add_executable(6-1 ds/practice/6-1.c)
+add_executable(6-2 ds/practice/6-2.c)
+add_executable(6-3 ds/practice/6-3.c)
+add_executable(6-4 ds/practice/6-4.c)
+add_executable(6-5 ds/practice/6-5.c)
+add_executable(6-6 ds/practice/6-6.c)
+add_executable(6-7 ds/practice/6-7.c)
+add_executable(6-8 ds/practice/6-8.c)
+add_executable(6-9 ds/practice/6-9.c)
+add_executable(6-10 ds/practice/6-10.c)
+add_executable(6-11 ds/practice/6-11.c)
+add_executable(6-12 ds/practice/6-12.c)
+
+add_executable(7-1 ds/practice/7-1.c)
+add_executable(7-2 ds/practice/7-2.c)
+add_executable(7-3 ds/practice/7-3.c)
+add_executable(7-4 ds/practice/7-4.c)
+add_executable(7-5 ds/practice/7-5.c)
+add_executable(7-6 ds/practice/7-6.c)
+add_executable(7-7 ds/practice/7-7.c)
+add_executable(7-8 ds/practice/7-8.c)
+add_executable(7-9 ds/practice/7-9.c)
+
+add_executable(7-14 ds/practice/7-14.c)
+
+add_executable(en-6-1 ds/practice/en/6-1.c)
+add_executable(en-6-2 ds/practice/en/6-2.c)
+add_executable(en-6-3 ds/practice/en/6-3.c)
+add_executable(en-6-4 ds/practice/en/6-4.c)
+add_executable(en-6-5 ds/practice/en/6-5.c)
+
+add_executable(en-7-8 ds/practice/en/7-8.c)
+
+add_executable(1-1 ds/classic/1-1.c)
+add_executable(1-2 ds/classic/1-2.c)
+add_executable(1-3 ds/classic/1-3.c)
+add_executable(1-4 ds/classic/1-4.c)
+add_executable(1-5 ds/classic/1-5.c)
+add_executable(1-6 ds/classic/1-6.c)
+add_executable(1-7 ds/classic/1-7.c)
+add_executable(1-8 ds/classic/1-8.c)
+add_executable(1-9 ds/classic/1-9.c)
+add_executable(1-10 ds/classic/1-10.c)
+add_executable(1-11 ds/classic/1-11.c)
+add_executable(1-12 ds/classic/1-12.c)
+add_executable(1-13 ds/classic/1-13.c)
+
+
+add_executable(2-1 ds/classic/2-1.c)
+add_executable(2-3 ds/classic/2-3.c)
