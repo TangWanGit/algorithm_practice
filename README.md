@@ -206,9 +206,11 @@ https://pintia.cn/problem-sets/15/problems/927
 
 代码位置: ds/practice/7-10.c
 
+### 7-13 统计工龄
+![](https://pintia.cn/problem-sets/15/problems/721)
+
 ### 7-14 电话聊天狂人 
 ![](https://pintia.cn/problem-sets/15/problems/722)
-
 
 代码位置: ds/practice/7-14.c
 

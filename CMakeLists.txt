@@ -29,6 +29,7 @@ add_executable(7-7 ds/practice/7-7.c)
 add_executable(7-8 ds/practice/7-8.c)
 add_executable(7-9 ds/practice/7-9.c)
 
+add_executable(7-13 ds/practice/7-13.c)
 add_executable(7-14 ds/practice/7-14.c)
 
 add_executable(en-6-1 ds/practice/en/6-1.c)
