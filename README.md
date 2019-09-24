@@ -206,6 +206,11 @@ https://pintia.cn/problem-sets/15/problems/927
 
 代码位置: ds/practice/7-10.c
 
+### 7-12 排序
+![](https://pintia.cn/problem-sets/15/problems/720)
+
+代码位置: ds/practice/7-12.c
+
 ### 7-13 统计工龄
 ![](https://pintia.cn/problem-sets/15/problems/721)
 
@@ -213,6 +218,11 @@ https://pintia.cn/problem-sets/15/problems/927
 ![](https://pintia.cn/problem-sets/15/problems/722)
 
 代码位置: ds/practice/7-14.c
+
+### 7-16 一元多项式求导
+![](https://pintia.cn/problem-sets/15/problems/820)
+
+代码位置: ds/practice/7-16.c
 
 
 # 3. PTA-数据结构与算法题目集-英文
