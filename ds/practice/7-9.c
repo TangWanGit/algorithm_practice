@@ -94,7 +94,7 @@ void Dijkstra(MGraph Graph, int S) {
         }
 
         collected[k] = 1;
-        for (j = 0; j < Graph->Nv; j++) {
+        for (j = 0; j < Graph->Nv && min < INFINITY; j++) {
             //修正最短路径和距离
             if (!collected[j] && (min + Graph->G[k][j][0] < dist[j])) {
                 dist[j] = min + Graph->G[k][j][0];
