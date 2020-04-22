@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-04.
+// Created by tangwan on 2019-09-04.
 //
 /**
  * @desc: 双向堆栈
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-04
  */
 #include <stdio.h>

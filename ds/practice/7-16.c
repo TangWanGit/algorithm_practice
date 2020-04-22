@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-24.
+// Created by tangwan on 2019-09-24.
 //
 /**
  * @desc: 7-16 一元多项式求导
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-24
  */
 

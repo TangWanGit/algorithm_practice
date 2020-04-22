@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-10.
+// Created by tangwan on 2019-09-10.
 //
 /**
  * @desc: 6-3 Add Two Polynomials
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-10
  */
 

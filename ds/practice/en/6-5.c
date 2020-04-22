@@ -1,10 +1,10 @@
 //
-// Created by zhaoxiaoli on 2019-09-12.
+// Created by tangwan on 2019-09-12.
 //
 /**
  * @desc: 6-5 Evaluate Postfix Expression
  * 计算后缀表达式
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-12
  */
 #include <stdlib.h>

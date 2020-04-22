@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-14.
+// Created by tangwan on 2019-09-14.
 //
 /**
  * @desc: 7-14 电话聊天狂人
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-14
  */
 #include <stdio.h>

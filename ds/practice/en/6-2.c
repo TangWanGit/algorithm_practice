@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-09.
+// Created by tangwan on 2019-09-09.
 //
 /**
  * @desc: 使用数组实现双堆栈
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-09
  */
 

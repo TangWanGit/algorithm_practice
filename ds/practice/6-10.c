@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-30.
+// Created by tangwan on 2019-08-30.
 // 6-10 二分查找
 /**
  * @desc: 
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-30
  */
 #include <stdio.h>

@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-01.
+// Created by tangwan on 2019-09-01.
 //
 /**
  * @desc: 
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-01
  */
 #define MAXN 1000                  /* 集合最大元素个数 */

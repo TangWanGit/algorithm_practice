@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-29.
+// Created by tangwan on 2019-08-29.
 //
 /**
  * @desc: 队列的顺序存储结构实现
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-29
  */
 #include <stdio.h>

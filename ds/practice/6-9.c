@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-31.
+// Created by tangwan on 2019-08-31.
 //
 /**
  * @desc: 6-9 二叉树的遍历 - 使用递归
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-31
  */
 #include <stdio.h>

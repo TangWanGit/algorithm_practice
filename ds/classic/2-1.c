@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-29.
+// Created by tangwan on 2019-08-29.
 //
 /**
  * @desc: 最大子序列和
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-29
  */
 #include <stdio.h>

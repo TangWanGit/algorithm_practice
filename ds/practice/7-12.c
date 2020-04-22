@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-24.
+// Created by tangwan on 2019-09-24.
 //
 /**
  * @desc: 7-12 排序
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-24
  */
 #include <stdlib.h>

@@ -1,5 +1,5 @@
 //
-// Created by zhaoxiaoli on 2019-08-27.
+// Created by tangwan on 2019-08-27.
 // 顺序表的操作集
 //
 #include <stdio.h>

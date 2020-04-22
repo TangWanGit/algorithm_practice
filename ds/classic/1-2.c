@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-29.
+// Created by tangwan on 2019-08-29.
 //
 /**
  * @desc: 线性表的链表存储实现方式，使用带头结点的链表
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-29
  */
 #include <stdio.h>

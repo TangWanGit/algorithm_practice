@@ -1,5 +1,5 @@
 //
-// Created by zhaoxiaoli on 2019-09-03.
+// Created by tangwan on 2019-09-03.
 //
 /**
  * @desc: 7-4 是否同一棵二叉搜索树
@@ -16,7 +16,7 @@
 
 对每一组需要检查的序列，如果其生成的二叉搜索树跟对应的初始序列生成的一样，输出“Yes”，否则输出“No”。
 
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-03
  */
 #include <stdlib.h>

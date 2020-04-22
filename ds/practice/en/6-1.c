@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-30.
+// Created by tangwan on 2019-08-30.
 // 6-1 Deque 双端队列
 /**
  * @desc: 
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-30
  */
 #include <stdio.h>

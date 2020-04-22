@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-06.
+// Created by tangwan on 2019-09-06.
 //
 /**
  * @desc: 列出连通集
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-06
  */
 #include <stdio.h>

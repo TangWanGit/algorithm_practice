@@ -1,5 +1,5 @@
 //
-// Created by zhaoxiaoli on 2019-08-28.
+// Created by tangwan on 2019-08-28.
 // 一元多项式的乘法与加法运算（链表实现法）
 
 #include <stdio.h>

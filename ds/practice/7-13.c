@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-23.
+// Created by tangwan on 2019-09-23.
 //
 /**
  * @desc: 7-13 统计工龄
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-23
  */
 #include <stdio.h>

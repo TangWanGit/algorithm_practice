@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-02.
+// Created by tangwan on 2019-09-02.
 //
 /**
  * @desc: 平衡二叉树
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-02
  */
 #include <stdio.h>

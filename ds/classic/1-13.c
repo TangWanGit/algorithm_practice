@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-09.
+// Created by tangwan on 2019-09-09.
 //
 /**
  * @desc: 图的建立（邻接表）
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-09
  */
 #include <stdlib.h>

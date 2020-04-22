@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-08-31.
+// Created by tangwan on 2019-08-31.
 //
 /**
  * @desc: 6-11 先序输出叶结点
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-08-31
  */
 #include <stdio.h>

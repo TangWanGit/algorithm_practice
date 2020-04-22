@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-02.
+// Created by tangwan on 2019-09-02.
 //
 /**
  * @desc: 
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-02
  */
 
@@ -143,6 +143,35 @@ void PostOrderTraversal(BinTree BT) {
             BT = BT->Right;
         }
     }
+}
+
+int postorderTraversal(BinTree* root) {
+    BinTree *p = root;
+    BinTree Stack[1000];
+    int top = -1;
+    if (!p) {
+        return 0;
+    }
+
+    BinTree *top, *last = NULL;
+
+    while (p || top) {
+        if (p) {
+            q.push(p);
+            p = p->left;
+        } else {
+            top = q.top();
+            if (top->right == NULL || top->right == last) {
+                q.pop();
+                result.push_back(top->val);
+                last = top;
+            } else {
+                p = top->right;
+            }
+        }
+    }
+
+    return result;
 }
 
 

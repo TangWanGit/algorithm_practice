@@ -1,9 +1,9 @@
 //
-// Created by zhaoxiaoli on 2019-09-04.
+// Created by tangwan on 2019-09-04.
 //
 /**
  * @desc: 最大堆的实现
- * @author zhaoxiaoli
+ * @author tangwan
  * @date 2019-09-04
  */
 #include <stdlib.h>

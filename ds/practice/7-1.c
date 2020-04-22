@@ -1,5 +1,5 @@
 //
-// Created by zhaoxiaoli on 2019-08-28.
+// Created by tangwan on 2019-08-28.
 // 最大子列和问题
 
 #include <stdio.h>
