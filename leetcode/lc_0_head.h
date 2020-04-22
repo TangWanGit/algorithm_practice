@@ -99,4 +99,37 @@ void setToMap(PtrToNode *map, int mapSize, int value, int numIndex) {
     }
 }
 
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
+
+void printListNode(struct ListNode *listNode) {
+    struct ListNode *tmp = listNode;
+    while (tmp != NULL) {
+        printf("%d ", tmp->val);
+        tmp = tmp->next;
+    }
+    printf("\n");
+}
+
+
+struct ListNode *createSingleListNode() {
+    struct ListNode *listNode = (struct ListNode *) malloc(sizeof(struct ListNode));
+    listNode->val = randomInt(11);
+    listNode->next = NULL;
+    return listNode;
+}
+
+struct ListNode *createListNode(int size) {
+    struct ListNode *listNode = createSingleListNode();
+    struct ListNode *next = listNode;
+    for (int i = 1; i < size; ++i) {
+        struct ListNode *tmp = createSingleListNode();
+        next->next = tmp;
+        next = tmp;
+    }
+    return listNode;
+}
+
 #endif //ALGORITHM_PRACTICE_LC_HEAD_H

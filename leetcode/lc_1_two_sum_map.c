@@ -39,7 +39,7 @@ int *twoSum(int *nums, int numsSize, int target, int *returnSize) {
 
     int *result = (int *) malloc(2 * sizeof(int));
     *returnSize = 0;
-    for (int i = 0; i < numsSize - 1; ++i) {
+    for (int i = 0; i < numsSize; ++i) {
         PtrToNode node = getFromMap(map, numsSize, target - nums[i]);
         if (node != NULL && nums[i] + node->value == target) {
             result[0] = node->index;

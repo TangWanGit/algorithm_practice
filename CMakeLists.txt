@@ -63,4 +63,6 @@ add_executable(2-1 ds/classic/2-1.c)
 add_executable(2-3 ds/classic/2-3.c)
 
 add_executable(lc-1 leetcode/lc_1_two_sum.c)
-add_executable(lc-1-1 leetcode/lc_1_two_sum_hash.c)
+add_executable(lc-1-2 leetcode/lc_1_two_sum_2.c)
+add_executable(lc-1-1 leetcode/lc_1_two_sum_map.c)
+add_executable(lc-2 leetcode/lc_2_add_two_nums.c)
